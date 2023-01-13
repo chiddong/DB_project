@@ -14,6 +14,11 @@
 &nbsp;
 &nbsp;
 
+### ✨ERD
+![erd](https://user-images.githubusercontent.com/111338981/212251556-80c7f33a-01f3-4267-9d5d-0e4360e2aebd.png)
+
+&nbsp;
+&nbsp;
 
 ### ✨주요기능
 ☑️ 교사 정보 관리
