@@ -68,13 +68,18 @@
 ### ✨ 담당 업무
 - **관리자** 
      1. 교육생 특이사항 조회
+     &nbsp;
+     &nbsp;
      ![image](https://user-images.githubusercontent.com/111338981/214493870-643661d8-2799-410a-9115-fc122fd3dc94.png)
-
+     &nbsp;
+     &nbsp;
      2. 교육생 면접 및 선발
-     
+     &nbsp;
+     &nbsp;     
      3. 수료생 정보 조회
      ![image](https://user-images.githubusercontent.com/111338981/214493807-09603760-7476-4adc-88ec-d605e0f63efb.png)
-
+     &nbsp;
+     &nbsp;
 &nbsp;
 &nbsp;
      
@@ -83,12 +88,16 @@
 &nbsp;
 
     1. 강의스케줄 조회
+     &nbsp;
+     &nbsp;
     ![image](https://user-images.githubusercontent.com/111338981/214493764-ddf77483-578b-41f8-a983-8059cc7880c3.png)
 &nbsp;
 &nbsp;
 &nbsp;
 
     2. 성적 입출력
+     &nbsp;
+     &nbsp;
     ![image](https://user-images.githubusercontent.com/111338981/214493839-811301b4-d005-4a1e-ada2-a74f027590a0.png)
 
 &nbsp;
